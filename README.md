@@ -18,7 +18,7 @@ $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-domande-permanenz
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-provvisoria.git
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-definitivaalfabetica.git
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-definitiva.git
-git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-cambialloggioalfabetica.git
+$ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-cambialloggioalfabetica.git
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-provvisoria.git
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-cambialloggioalfabetica.git
 $ git clone https://github.com/ATERUD/ater-resys-reports-bandi-graduatorie-cambialloggio.git
