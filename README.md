@@ -44,7 +44,7 @@ Il comando genera il file .zip del report che dovrà essere caricato sul portale
 In ogni Repository è presente un README.md dove viene descritto come deve essere caricato il file e relative descrizioni dei campi.
 
 
-### Todos
+### Todo
  - Aggiungere pià documentazione
  - Implementare la creazione dinamica del README.md
  - Durante il deploy fare in modo che il README.md venga aggiornato in maniera batch.
